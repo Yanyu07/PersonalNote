@@ -1,4 +1,5 @@
-- 首页
+- [首页](/)
+- test
   - [:uk: English](/)
   - [:cn: 简体中文](/zh-cn/)
   - [:de: Deutsch](/de-de/)
