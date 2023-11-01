@@ -1,6 +1,5 @@
 import com.sun.org.apache.bcel.internal.generic.SWAP;
 
-import java.util.Arrays;
 
 public class SelectionSort {
     public static int[] selectionSort(int[] arr){
